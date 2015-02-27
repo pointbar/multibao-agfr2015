@@ -23,6 +23,7 @@ Et rétrospective orale.
 
 ## Demande 
 
+Un tableau demande propose l
 * Factuel ?
 * Précis
 * Posture
@@ -43,6 +44,11 @@ Restitution des émeteurs et des récepteurs :
 
 Et rétrospective orale.
 
+## Faits
+
+* ! décalage : faits/demande
+* ! pas de jugement : Impression d'être un looser
+* ! remise en contexte
 
 
 

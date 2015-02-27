@@ -10,3 +10,4 @@
 * Maxence Walbrou > [@bloculus](http://twitter.com/bloculus)
 * Alban Dalle >
 * Eric Lechevallier >
+* Bastien Gallay > [@bastien_gallay](http://twitter.com/bastiengallay)

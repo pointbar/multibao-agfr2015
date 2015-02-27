@@ -23,12 +23,12 @@ Et rétrospective orale.
 
 ## Demande 
 
-Un tableau demande propose l
 * Factuel ?
 * Précis
 * Posture
 * Besoins de faits
 * Pas de jugement
+* Besoin d'aide
 
 ### Étape 2 - Énnoncer ce qui c'est passé, puis poser une question
 
@@ -44,11 +44,18 @@ Restitution des émeteurs et des récepteurs :
 
 Et rétrospective orale.
 
+## Demande 
+
+* Question ouverte
+* Négociable
+
 ## Faits
 
 * ! décalage : faits/demande
 * ! pas de jugement : Impression d'être un looser
 * ! remise en contexte
+* Demander si on est d'accord sur les faits
+* ! "Trop" - subjectivité
 
 
 

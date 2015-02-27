@@ -26,7 +26,7 @@ produire des pizzas, avec le format :
 2. Go sur une période indéterminée (notre premier roud: itération de 6 minutes)
 3. Evaluer et compter selon la méthode suivante (en anglais)
 
-!(comptage)(http://media.agile42.com/cms_page_media/112/kpg%20-%20points.jpg)
+![comptage](http://media.agile42.com/cms_page_media/112/kpg%20-%20points.jpg)
 
 Viser la qualité: répartition harmonieuse des aliments, poser des questions au client. 
 

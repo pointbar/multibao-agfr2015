@@ -1,5 +1,9 @@
 # Jeu pour se connaître : l'autre toi 
 
+* se découvrir
+* apprendre à mieux se connaître en équipe qui se connaît déjà
+* se connaître différemment
+
 ![autre toi](https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11017638_801711023251625_1337428667_n.jpg)
 
 * Designed par Agile Garden et Julie Boiveau

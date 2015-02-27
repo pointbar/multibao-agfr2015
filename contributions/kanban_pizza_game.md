@@ -5,13 +5,13 @@
 
 ## Matériel à disposition
 
-![Photo](http://media.agile42.com/cms_page_media/112/kpg%20-%20materials.jpg)
+![Photo](http://media.agile42.com/cms_page_media/112/kpg%20-%20materials.jpg) **(1)**
 
 ## Objectif: 
 
 produire des pizzas, avec le format : 
 
-![modèle](http://blog.myscrumhalf.com/wp-content/uploads/2014/06/photo-2-286x300.jpg)
+![modèle](http://blog.myscrumhalf.com/wp-content/uploads/2014/06/photo-2-286x300.jpg) 
 
 ### Premier modèle de pizza: HAWAII
 
@@ -26,7 +26,7 @@ produire des pizzas, avec le format :
 2. Go sur une période indéterminée (notre premier roud: itération de 6 minutes)
 3. Evaluer et compter selon la méthode suivante (en anglais)
 
-![comptage](http://media.agile42.com/cms_page_media/112/kpg%20-%20points.jpg)
+![comptage](http://media.agile42.com/cms_page_media/112/kpg%20-%20points.jpg) **(1)**
 
 Viser la qualité: répartition harmonieuse des aliments, poser des questions au client. 
 
@@ -36,7 +36,14 @@ Viser la qualité: répartition harmonieuse des aliments, poser des questions au
 
 **Objectifs:** > rendre le process visuel, on a du scotch, marquer sur la table des zones pour faire la sauce, garniture, fabrication des aliments...  + > fixer une limite de produits sur chacun des postes
 
-![organisation de la table kanban](http://blog.myscrumhalf.com/wp-content/uploads/2014/06/photo1-300x225.jpg)
+![organisation de la table kanban](http://blog.myscrumhalf.com/wp-content/uploads/2014/06/photo1-300x225.jpg) **(1)**
+
+
+
+
+# Sources
+
+* **(1)** Photographies issues de [Agile42](http://www.agile42.com/en/training/kanban-pizza-game/), publié sous licence Creative Commons BY-SA
 
 
 

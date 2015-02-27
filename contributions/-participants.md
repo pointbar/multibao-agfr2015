@@ -9,3 +9,4 @@
 * Johan Martinsson > [@johan_alps](http://twitter.com/johan_alps)
 * Maxence Walbrou > [@bloculus](http://twitter.com/bloculus)
 * Alban Dalle >
+* Eric Lechevallier >

@@ -17,7 +17,7 @@ produire des pizzas, avec le format :
 
 ![modèle](http://blog.myscrumhalf.com/wp-content/uploads/2014/06/photo-2-286x300.jpg) 
 
-### Premier modèle de pizza: HAWAII
+## Première étape: la pizza Hawai
 
 3 x jambon
 3 x ananas
@@ -32,13 +32,15 @@ produire des pizzas, avec le format :
 
 ![comptage](http://media.agile42.com/cms_page_media/112/kpg%20-%20points.jpg) **(1)**
 
+4. Commencer à rendre le process visuel, il doit émerger
+
 Viser la qualité: répartition harmonieuse des aliments, poser des questions au client. 
 
 ![retour du client](https://igcdn-photos-a-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11024370_865344613511448_918614347_n.jpg)
 
 ## Deuxième étape
 
-**Objectifs:** > rendre le process visuel, on a du scotch, marquer sur la table des zones pour faire la sauce, garniture, fabrication des aliments...  + > fixer une limite de produits sur chacun des postes
+**Objectifs:** > rendre le process visuel et les limites qui sont fixées (parce qu'il y a du déchet), on a du scotch, marquer sur la table des zones pour faire la sauce, garniture, fabrication des aliments...  + > fixer une limite de produits sur chacun des postes. 
 
 ![organisation de la table kanban](http://blog.myscrumhalf.com/wp-content/uploads/2014/06/photo1-300x225.jpg) **(1)**
 
@@ -57,15 +59,12 @@ Puis 1 minute pour redéfinir le process, l'améliorer.
 
 ## Quatrième étape
 
-**Objectifs:** > 
-
-
-
-
+**Objectifs:** > répéter le process 3 
 
 # Sources
 
 * Compilé par [Thomas Wolff](mailto:thomas.wolff@cpcoop.fr), sous licence Creative Commons BY-SA
+> à complêter, incomplêt
 
 * **(1)** Photographies issues de [Agile42](http://www.agile42.com/en/training/kanban-pizza-game/), publié sous licence Creative Commons BY-SA
 

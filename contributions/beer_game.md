@@ -49,4 +49,4 @@ Chaque tour de jeu représente 1 semaine.
 
 #Source
 
-* !(Ayeba)[http://ayeba.fr/jeu-dentreprise/beer-game/), sous licence CC0
+* [Ayeba](http://ayeba.fr/jeu-dentreprise/beer-game/), sous licence CC0

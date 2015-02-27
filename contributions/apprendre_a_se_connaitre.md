@@ -73,3 +73,11 @@ On est en cercle, on imagine un feu de camp au milieu de nous, et on va se racon
 # Jeu : l'autre
 
 ![méthodologie](https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11017638_801711023251625_1337428667_n.jpg)
+
+* Designed par [Agile Garden](www.agilegarden.fr/) et Julie Boiveau
+
+## Avantages et limites
+
+### Limites
+
+* peut-être jouer à chaud / froid pour favoriser la découverte? 

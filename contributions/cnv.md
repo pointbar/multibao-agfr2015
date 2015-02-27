@@ -4,6 +4,8 @@
 * Participants : 8
 * Animateurs : Maxence et Alban
 
+![Participants](https://upload.wikimedia.org/wikipedia/commons/8/83/Atelier_cnv.jpg)
+
 ## Mode d'emploi
 
 ### Définition des rôles
@@ -24,7 +26,7 @@ On décrit une situation problèmatique qui pourrait générer une demande diffi
 
 Chaque participant pose un post-it sur son ressenti dans une grille qui représente la perception :
 
-+image+
+![Grille de rétrospective](https://upload.wikimedia.org/wikipedia/commons/0/01/Grille_cnv.jpg)
 
 Suit une rétrospective orale pour commenter.
 
@@ -56,15 +58,6 @@ La rétrospective a fait apparaitre qu'un développeur a produit un code merdiqu
 
 "Est-ce que c'est possible de faire mieux sur la prochaine itération ?"
 
-### Grille emetteur 
-
-Chaque participant pose un post-it sur son ressenti dans une grille qui représente la perception :
-
-+image+
-
-Suit une rétrospective orale pour commenter.
-
-
 ## Demande 
 
 Une restitution est réalisé en reprennant les mots clés énoncés pendant la rétrospective :
@@ -76,19 +69,13 @@ Une restitution est réalisé en reprennant les mots clés énoncés pendant la 
 * Pas de jugement
 * Besoin d'aide
 
+![Demandes CNV](https://upload.wikimedia.org/wikipedia/commons/9/9a/Demande_cnv.jpg)
+
 ### Étape 2 - Énoncer ce qui c'est passé, puis poser une question
 
 "José, on s'est apperçu..."
 
 - Est-ce que tu as besoin d'aide ?
-
-### Grille émetteur 
-
-Restitution des émeteurs et des récepteurs :
-
-+image+
-
-Et rétrospective orale.
 
 ## Demande 
 

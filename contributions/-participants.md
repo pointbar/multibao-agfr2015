@@ -1,6 +1,6 @@
 # Participants
 
-* Thomas Wolff >  [http://twitter.com/thomas_wolff](@thomas_wolff)
-* Stéphane Langlois > [http://twitter.com/langlois_s](@langlois_s)
-* Claude Aubry > [http://twitter.com/claudeaubry](@claudeaubry)
-* Fabrice Aimetti > [http://twitter.com/fabriceaimetti](@fabriceaimetti)
+* Thomas Wolff >  [@thomas_wolff](http://twitter.com/thomas_wolff)
+* Stéphane Langlois > [@langlois_s](http://twitter.com/langlois_s)
+* Claude Aubry > [@claudeaubry](http://twitter.com/claudeaubry)
+* Fabrice Aimetti > [@fabriceaimetti](http://twitter.com/fabriceaimetti)

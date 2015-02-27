@@ -46,10 +46,26 @@ A la fin de cette étape, faire une revue (1mn)
 
 * qu'est ce qui a marché?
 * qu'est ce qu'on pourrait améliorer?
+* 
+## Troisième étape
+
+**Objectifs:** > répondre à des demandes particulières de clients > des commandes à honorer dans leur totalité. Des pizzas "roquettes" et des pizzas "hawai". 1 minute pour revoir le process. 
+
+Go! 
+
+Puis 1 minute pour redéfinir le process, l'améliorer. 
+
+## Quatrième étape
+
+**Objectifs:** > 
+
+
 
 
 
 # Sources
+
+* Compilé par [Thomas Wolff](mailto:thomas.wolff@cpcoop.fr), sous licence Creative Commons BY-SA
 
 * **(1)** Photographies issues de [Agile42](http://www.agile42.com/en/training/kanban-pizza-game/), publié sous licence Creative Commons BY-SA
 

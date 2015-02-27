@@ -106,7 +106,9 @@ Une restitution est réalisé en reprennant les mots clés énoncés pendant la 
 * ! Pervers
 * ! Analyse vs émotion
 * ! authenticité
-* 
+
+![Sentiments CNV](https://upload.wikimedia.org/wikipedia/commons/a/af/Sentiment_cnv.jpg)
+
 ### Étape 4 - Exprimer un besoin
 
 - J'ai observer que l'on avait 

@@ -14,13 +14,6 @@ Restitution des emmeteurs et des récepteurs :
 
 +image+
 
-### Étape 1 - Énnoncer ce qui c'est passé, puis poser une question
-
-"José, on s'est apperçu..."
-
-- Est-ce que tu as besoin d'aide ?
-
-
 ## Demande 
 
 * Factuel ?
@@ -28,5 +21,14 @@ Restitution des emmeteurs et des récepteurs :
 * Posture
 * Besoins de faits
 * Pas de jugement
+
+### Étape 2 - Énnoncer ce qui c'est passé, puis poser une question
+
+"José, on s'est apperçu..."
+
+- Est-ce que tu as besoin d'aide ?
+
+
+
 
 

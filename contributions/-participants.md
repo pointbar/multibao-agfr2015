@@ -6,3 +6,4 @@
 * Fabrice Aimetti > [@fabriceaimetti](http://twitter.com/fabriceaimetti)
 * Pascal Romain > [@keronos](http://twitter.com/keronos)
 * Olivier Destrade > [@olivierdestrade](http://twitter.com/olivierdestrade)
+* Johan Martinsson > [@johan_alps](http://twitter.com/johan_alps)

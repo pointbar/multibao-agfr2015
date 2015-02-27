@@ -12,9 +12,9 @@ Est-ce que c'est possible de faire mieux sur la prochaine itération ?
 
 Restitution des emmeteurs et des récepteurs :
 
-<image>
++image+
 
-### 2nd phase : 
+### 2nd phase
 
 
 ## Demande 

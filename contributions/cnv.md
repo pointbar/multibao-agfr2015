@@ -30,7 +30,7 @@ Et rétrospective orale.
 * Pas de jugement
 * Besoin d'aide
 
-### Étape 2 - Énnoncer ce qui c'est passé, puis poser une question
+### Étape 2 - Énoncer ce qui c'est passé, puis poser une question
 
 "José, on s'est apperçu..."
 
@@ -57,6 +57,21 @@ Et rétrospective orale.
 * Demander si on est d'accord sur les faits
 * ! "Trop" - subjectivité
 
+### Étape 3 - Énoncer les fait, ajouter le ressenti, puis poser une question
 
+Un premier émeteur construit une phrase sur les faits, l'autre sur les sentiments et le dernier sur la formulation de la demande.
 
+- On est en retard, on n'a pas terminé
+- J'ai l'impression de perdre ma confiance.
+- Est-ce que tu entrevois des moyens pour retrouver la confiance ?
 
+## Sentiments
+
+* Empathie
+* Niveau relationnel
+* Compréhension de l'état
+* Proximité
+* ! Peur peut-être générée
+* ! Pervers
+* ! Analyse vs émotion
+* ! authenticité

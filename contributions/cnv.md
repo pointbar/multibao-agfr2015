@@ -1,27 +1,33 @@
 # CNV : Apprenez à dire des messages difficiles
 
+* Durée : 45'
+* Participants : 8
+* Animateurs : Maxence et Alban
+
 ## Contexte
 
 La rétrospective a fait apparaitre qu'un développeur a produit un code merdique, qu'il a passé beaucoup de temps sur facebook, et que nous n'avons pas réussi à terminer correctement nos objectifs.
 
 ## Rôle
 
-On sépare le groupe en deux parties, les uns sont récepteurs et les autres sont les émetteurs.
+On sépare le groupe en deux sous-groupes, les uns sont récepteurs et les autres sont les émetteurs.
 
-### Étape 1 - Poser une question qui commence par parce que :
+### Étape 1 - Poser une question qui commence par "parce-que" :
 
 "Est-ce que c'est possible de faire mieux sur la prochaine itération ?"
 
 ### Grille emetteur 
 
-Restitution des émeteurs et des récepteurs :
+Chaque participant pose un post-it sur son ressenti dans une grille qui représente la perception :
 
 +image+
 
-Et rétrospective orale.
+Suit une rétrospective orale pour commenter.
 
 
 ## Demande 
+
+Une restitution est réalisé en reprennant les mots clés énoncés pendant la rétrospective :
 
 * Factuel ?
 * Précis

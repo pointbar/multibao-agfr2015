@@ -1,12 +1,12 @@
-# CNV
+# CNV : Apprenez à dire des messages difficiles
 
 ## Contexte
 
-La rétrospective a fait apparaitre qu'un dev a produit un code merdique, qu'il a passé beaucoup de temps sur facebook, et que nous n'avons pas réussi à terminer correctement nos objectifs.
+La rétrospective a fait apparaitre qu'un développeur a produit un code merdique, qu'il a passé beaucoup de temps sur facebook, et que nous n'avons pas réussi à terminer correctement nos objectifs.
 
 ## Rôle
 
-On sépare le groupe en deux parties, les uns sont récepteurs et les autres seront les émetteurs.
+On sépare le groupe en deux parties, les uns sont récepteurs et les autres sont les émetteurs.
 
 ### Étape 1 - Poser une question qui commence par parce que :
 

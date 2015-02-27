@@ -32,7 +32,7 @@ Exemples : Quel est son mode de vie ? Quels sont ces hobbies ? Quel métier e
 * quand on ne s'apprécie pas, ne peut être pas inviter les participants à entrer dans l'intimité (invasif)
 * peur de faire une erreur > opportunité d'amélioration : favoriser un climat de confiance et de bienveillance
 
-* [Thomas Wolff](mailto : thomas.wolff@cpcoop.fr), publié sous licence Creative Commons BY-SA, sur la base du travail designed par [Agile Garden](www.agilegarden.fr/) et Julie Boyeau
+* [Thomas Wolff](mailto : thomas.wolff@cpcoop.fr), publié sous licence Creative Commons BY-SA, sur la base du travail designed par [Agile Garden](www.agilegarden.fr/) et Julie Boiveau
 
 # Jeu : Feu de camp
 
@@ -62,10 +62,14 @@ On est en cercle, on imagine un feu de camp au milieu de nous, et on va se racon
 
 ## Compilation
 
-* [Thomas Wolff](mailto : thomas.wolff@cpcoop.fr), publié sous licence Creative Commons BY-SA, sur la base du travail designed par [Agile Garden](www.agilegarden.fr/) et Julie Boyeau
+* [Thomas Wolff](mailto : thomas.wolff@cpcoop.fr), publié sous licence Creative Commons BY-SA, sur la base du travail designed par [Agile Garden](www.agilegarden.fr/) et Julie Boiveau
 
 # Jeu : Bibliothèque éphémère
 
 ![méthodo](https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/11008349_1549719751966723_599460165_n.jpg)
 
-* Designed par [Agile Garden](www.agilegarden.fr/) et Julie Boyeau
+* Designed par [Agile Garden](www.agilegarden.fr/) et Julie Boiveau
+
+# Jeu : l'autre
+
+![méthodologie](https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11017638_801711023251625_1337428667_n.jpg)

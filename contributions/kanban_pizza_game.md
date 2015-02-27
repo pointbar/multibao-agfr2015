@@ -5,7 +5,11 @@
 
 ## Matériel à disposition
 
-![Photo](http://media.agile42.com/cms_page_media/112/kpg%20-%20materials.jpg) **(1)**
+* 2 couleurs de post-it
+* marqueur rouge
+* 2 ciseaux
+* scotch 
+* grand post-its
 
 ## Objectif: 
 
@@ -38,6 +42,10 @@ Viser la qualité: répartition harmonieuse des aliments, poser des questions au
 
 ![organisation de la table kanban](http://blog.myscrumhalf.com/wp-content/uploads/2014/06/photo1-300x225.jpg) **(1)**
 
+A la fin de cette étape, faire une revue (1mn)
+
+* qu'est ce qui a marché?
+* qu'est ce qu'on pourrait améliorer?
 
 
 

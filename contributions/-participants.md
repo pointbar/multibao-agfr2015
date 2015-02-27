@@ -5,4 +5,4 @@
 * Claude Aubry > [@claudeaubry](http://twitter.com/claudeaubry)
 * Fabrice Aimetti > [@fabriceaimetti](http://twitter.com/fabriceaimetti)
 * Pascal Romain > [@keronos](http://twitter.com/keronos)
-* Olivier Destrade > [@olivierdestrade]](http://twitter.com/olivierdestrade)
+* Olivier Destrade > [@olivierdestrade](http://twitter.com/olivierdestrade)

@@ -4,15 +4,22 @@
 
 La rétrospective a fait apparaitre qu'un dev a produit un code merdique, qu'il a passé beaucoup de temps sur facebook, et que nous n'avons pas réussi à terminer correctement nos objectifs.
 
+## Rôle
+
+On sépare le groupe en deux parties, les uns sont récepteurs et les autres seront les émetteurs.
+
 ### Étape 1 - Poser une question qui commence par parce que :
 
 "Est-ce que c'est possible de faire mieux sur la prochaine itération ?"
 
-### Grille emmetteur 
+### Grille emetteur 
 
-Restitution des emmeteurs et des récepteurs :
+Restitution des émeteurs et des récepteurs :
 
 +image+
+
+Et rétrospective orale.
+
 
 ## Demande 
 
@@ -27,6 +34,14 @@ Restitution des emmeteurs et des récepteurs :
 "José, on s'est apperçu..."
 
 - Est-ce que tu as besoin d'aide ?
+
+### Grille émetteur 
+
+Restitution des émeteurs et des récepteurs :
+
++image+
+
+Et rétrospective orale.
 
 
 

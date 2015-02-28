@@ -11,3 +11,5 @@
 * Alban Dalle >
 * Eric Lechevallier >
 * Bastien Gallay > [@bastien_gallay](http://twitter.com/bastiengallay)
+* @IsLifeSerious 
+* @ChrisDENIAUD

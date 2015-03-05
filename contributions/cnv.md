@@ -42,7 +42,7 @@ Un émetteur énonce ce qui c'est passé objectivement, un autre émetteur pose 
 
 #### Étape 3 - Énoncer les fait, ajouter le ressenti, puis poser une question
 
-Un premier émeteur construit une phrase sur les faits, l'autre sur les sentiments et le dernier sur la formulation de la demande.
+Un premier émetteur construit une phrase sur les faits, l'autre sur les sentiments et le dernier sur la formulation de la demande.
 
 #### Étape 4 - Ajouter exprimer un besoin
 
@@ -73,7 +73,7 @@ Une restitution est réalisé en reprennant les mots clés énoncés pendant la 
 
 ### Étape 2 - Énoncer ce qui c'est passé, puis poser une question
 
-"José, on s'est apperçu..."
+"José, on s'est aperçu..."
 
 - Est-ce que tu as besoin d'aide ?
 
@@ -111,7 +111,7 @@ Une restitution est réalisé en reprennant les mots clés énoncés pendant la 
 
 ### Étape 4 - Exprimer un besoin
 
-- J'ai observer que l'on avait 
+- J'ai observé que l'on avait 
 - Je me sens inquiet
 - J'ai besoin de clarifier
 - Est-ce que tu envisages des moyens pour me permettre de sortir de cette inquiétude ?

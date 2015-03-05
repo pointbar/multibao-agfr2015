@@ -32,9 +32,9 @@ Suit une rétrospective orale pour commenter.
 
 Les quatres étapes durent quinze minutes :
 
-#### Étape 1 - Poser une question qui commence par "parce-que" :
+#### Étape 1 - Poser une question qui commence par "est-ce-que" :
 
-Un émetteur commence en posant une question qui commence par parce-que.
+Un émetteur commence en posant une question qui commence par "est-ce-que".
 
 #### Étape 2 - Énoncer ce qui c'est passé, puis poser une question
 
